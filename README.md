@@ -1,4 +1,0 @@
-mutunuspuzzle
-=============
-
-puzzle for multunus 
